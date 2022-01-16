@@ -1,2 +1,7 @@
-json file - homework
+{
+	"name":"Iryna",
+	"surname":"Shypko",
+	"animals_number ":2,
+	"future_salary":4000
+}
 
