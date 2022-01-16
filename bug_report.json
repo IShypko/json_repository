@@ -1,0 +1,18 @@
+{
+    "BugReport": {
+        "BugName": "Application crashes upon clicking the SAVE button while creating a new user", 
+        "BugID": 456,
+        "BuildNumber": 3.03,
+        "Severity": "High",
+        "ReportedBy": "Magda",
+        "Environment": "os Windows Safari",
+        "Description": "Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application.",
+        "StepsToReproduce": [
+            "Login into the Application",
+            "Navigate to the User Menu",
+            "Filled out all the user information fields",
+            "Seen an error page..."
+        ],
+        "ExpectedResult": "On clicking the SAVE button, you should be prompted to a successful message “New User has been created successfully”."
+    }
+}
